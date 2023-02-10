@@ -1,0 +1,17 @@
+introduction
+overview
+stands-harvested-prior-to-1987
+atriubtion-for-generating-a-yield-table
+inputs-to-btc
+categorization-of-pre-87-stands-for-yield-prediction
+yield-options
+using-vri-attribution-for-pre-1987-stands
+photo-classification
+stand-information
+stand-reference-age
+age-ranges-within-an-opening
+categorization
+attribution-for-generating-a-yield-table
+representation-in-btc
+data-details
+reference-age-and-density
